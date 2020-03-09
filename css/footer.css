@@ -1,0 +1,19 @@
+footer {
+    background: #effcef;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.footer-icons a {
+    display: inline-block;
+    font-size: 20px;
+    margin: 0 10px 20px 10px;
+    padding: 2px 5px;
+    border-radius: 5px;
+    background: lightblue;
+    color: white;
+}
+
+footer p {
+    font-size: 20px;
+}
